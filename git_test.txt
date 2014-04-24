@@ -1,3 +1,7 @@
 hej dette er en git test
 
+<<<<<<< HEAD
 hej igen
+=======
+hejs
+>>>>>>> fc59fb6c2a49b58a7e3e8e9d52cd3e5316dad03a
